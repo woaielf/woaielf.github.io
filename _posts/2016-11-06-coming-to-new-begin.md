@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "写在大学生涯的第5年半"
-categories: 生活
-tags: 生活
-keywords: 生活
-description: 科研生活
+categories: 思考总结
+tags: 思考总结
+keywords: 思考总结
+description: 思考总结
 ---
 
 * content
