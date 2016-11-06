@@ -4,13 +4,23 @@ title: "数据挖掘的基本思想"
 categories: 数据科学
 tags: 数据挖掘导论 阅读笔记 
 description: 个人学习
+author: ZhaoYue
 ---
 
 * content
 {:toc}
 
+本文首先用思维导图概述了一下数据挖掘领域一些基本的理念和思想，然后结合网络上的其他资料，简单分析了一下数据挖掘与机器学习，模式识别领域的异同之处。可以快速对整个领域建立起基本的概念。
+
+
+
+
 ### Content
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/2-data-mining.png)
+
+### 三大领域的异同比较
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/2-data-mining.png)
 
 ### 参考资料
 > 《数据挖掘导论》Pang-Ning Tan etc.
+> 周志华:数据挖掘与机器学习
