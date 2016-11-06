@@ -15,11 +15,11 @@ author: ZhaoYue
 
 
 
-### Content
+## 主要内容
 
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/3-data-mining-data1.png)
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/3-data-mining-data2.png)
 
-### 参考资料
+## 参考资料
 
 > 《数据挖掘导论》Pang-Ning Tan etc.

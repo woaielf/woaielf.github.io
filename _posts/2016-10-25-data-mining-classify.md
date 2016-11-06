@@ -15,33 +15,33 @@ author: ZhaoYue
 
 
 
-### **Content**
+## 主要内容
 
-#### 分类中的基本问题
+### 分类中的基本问题
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/4-data-mining-classification1.png)
 
-#### 决策树
+### 决策树
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/4-data-mining-classification2.png)
 
-#### 基于规则的分类器 & 最近邻分类器 & 贝叶斯分类器
+### 基于规则的分类器 & 最近邻分类器 & 贝叶斯分类器
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/4-data-mining-classification3.png)
 
-#### 人工神经网络 & 支持向量机
+### 人工神经网络 & 支持向量机
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/4-data-mining-classification4.png)
 
-#### 组合方法（Bagging & Boosting & AdaBoost）
+### 组合方法（Bagging & Boosting & AdaBoost）
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/4-data-mining-classification5.png)
 
-#### 不平衡类问题 & 多类问题
+### 不平衡类问题 & 多类问题
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/4-data-mining-classification6.png)
 
-### 注意事项
+## 注意事项
 - 默认阅读顺序：从右→左，顺时针方向。
 - 图片信息量太大，建议右键→查看图像，放大图片后细看。
 
-### 未来展望
+## 未来展望
 我希望针对每一个主题，能写一系列从知识点原理到代码实现的超详细版教程，作为督促自己深入学习的动力。
 
-### 参考资料
+## 参考资料
 
 > 《数据挖掘导论》Pang-Ning Tan etc.

@@ -15,17 +15,17 @@ author: ZhaoYue
 
 
 
-### Content
+## 主要内容
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/2-data-mining.png)
 
-### 三大领域的异同比较
+## 三大领域的异同比较
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/2-data-mining2.png)
 
-### 注意事项
+## 注意事项
 - 默认阅读顺序：从右→左，顺时针方向。
 - 图片信息量太大，建议右键→查看图像，放大图片后细看。
 
-### 参考资料
+## 参考资料
 > 《数据挖掘导论》Pang-Ning Tan etc.
 
 > 周志华：数据挖掘与机器学习
