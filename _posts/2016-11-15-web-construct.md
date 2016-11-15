@@ -22,7 +22,7 @@ SQL/MySQL一系列编程语言，最终成功的完成了课题。几天前将�
 
 ## PPT展示
 
-<div align="center">
+<div align="center" width='200px'>
 <video  controls>
     <source src="https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Video/Web_Design_ZY.mp4" type="video/mp4">
 </video>
