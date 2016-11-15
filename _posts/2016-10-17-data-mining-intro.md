@@ -4,7 +4,7 @@ title: "数据挖掘的基本思想"
 categories: 数据科学
 tags: 数据挖掘导论 阅读笔记 机器学习
 description: 个人学习
-author: woaielf
+author: ZY
 ---
 
 * content

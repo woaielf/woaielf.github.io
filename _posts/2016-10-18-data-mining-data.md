@@ -4,7 +4,7 @@ title: "数据挖掘中的数据处理"
 categories: 数据科学
 tags: 数据挖掘导论 阅读笔记 数据处理
 description: 个人学习
-author: woaielf
+author: ZY
 ---
 
 * content

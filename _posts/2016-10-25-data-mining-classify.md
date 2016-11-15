@@ -4,7 +4,7 @@ title: "数据挖掘中的分类问题"
 categories: 数据科学
 tags: 数据挖掘导论 阅读笔记 分类问题 机器学习
 description: 个人学习
-author: woaielf
+author: ZY
 ---
 
 * content
