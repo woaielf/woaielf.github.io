@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "写在大学生涯的第5年半"
-categories: 思考总结
+title: "写在大学生涯的第6年"
+categories: 生活札记
 tags: 思考总结
-description: 思考总结
 author: ZY
 ---
 
