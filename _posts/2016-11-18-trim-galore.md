@@ -15,6 +15,7 @@ author: ZY
 
 
 ## 软件说明
+
 ### 版本信息
 Trim Galore version: 0.4.1
 
@@ -23,24 +24,25 @@ Cutadapt version: 1.11
 ### 参数概览
 这篇文章只讨论了部分参数（与我的数据相关的部分）。其余的可以参考官方文档。[Trim_Galore_User_Guide](http://www.bioinformatics.bbsrc.ac.uk/projects/trim_galore/)
 
---q/--quality <INT> 控制的质量分数阈值
+- -q/--quality <INT> 控制的质量分数阈值
 
----length <INT> 丢弃小于此长度的读段
+- --length <INT> 丢弃小于此长度的读段
 
---e 允许的错误率
+- -e 允许的错误率
 
----stringency Overlap with adapter sequence required to trim a sequence.
+- --stringency Overlap with adapter sequence required to trim a sequence.
 
---o 输出文件路径
+- -o 输出文件路径
 
 
 ## 案例分析
+
 ### 测序数据
-Illumina Hiseq3000
+- Illumina Hiseq3000
 
-RNA-seq 
+- RNA-seq 
 
-paired-end
+- paired-end
 
 ### 代码展示
 ```
@@ -50,16 +52,16 @@ paired-end
 ### 软件输出
 p.s.****表示隐藏内容
 
-Quality Phred score cutoff: 25
+- Quality Phred score cutoff: 25
 
-Quality encoding type selected: ASCII+33
+- Quality encoding type selected: ASCII+33
 
-Adapter sequence: ****
+- Adapter sequence: ****
 
-Maximum trimming error rate: 0.1 (default)
+- Maximum trimming error rate: 0.1 (default)
 
-Optional adapter 2 sequence (only used for read 2 of paired-end files): ****
+- Optional adapter 2 sequence (only used for read 2 of paired-end files): ****
 
-Minimum required adapter overlap (stringency): 5 bp
+- Minimum required adapter overlap (stringency): 5 bp
 
-Minimum required sequence length for both reads before a sequence pair gets removed: 50 bp
+- Minimum required sequence length for both reads before a sequence pair gets removed: 50 bp
