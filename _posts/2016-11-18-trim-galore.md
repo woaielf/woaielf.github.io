@@ -38,11 +38,11 @@ Cutadapt version: 1.11
 ## 案例分析
 
 ### 测序数据
-- Illumina Hiseq3000
+Illumina Hiseq3000
 
-- RNA-seq 
+RNA-seq 
 
-- paired-end
+paired-end
 
 ### 代码展示
 ```
