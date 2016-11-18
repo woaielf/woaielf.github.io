@@ -52,16 +52,4 @@ paired-end
 ### 软件输出
 p.s.****表示隐藏内容
 
-- Quality Phred score cutoff: 25
-
-- Quality encoding type selected: ASCII+33
-
-- Adapter sequence: ****
-
-- Maximum trimming error rate: 0.1 (default)
-
-- Optional adapter 2 sequence (only used for read 2 of paired-end files): ****
-
-- Minimum required adapter overlap (stringency): 5 bp
-
-- Minimum required sequence length for both reads before a sequence pair gets removed: 50 bp
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/7-trim.png)
