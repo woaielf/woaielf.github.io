@@ -50,6 +50,5 @@ paired-end
 ```
 
 ### 软件输出
-p.s.****表示隐藏内容
 
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/7-trim.png)
