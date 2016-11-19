@@ -14,7 +14,7 @@ author: ZY
 
 
 
-## **软件说明**
+## *软件说明*
 
 ### 版本信息
 Trim Galore version: 0.4.1
@@ -35,7 +35,7 @@ Cutadapt version: 1.11
 - -o 输出文件路径
 
 
-## **案例分析**
+## *案例分析*
 
 ### 测序数据
 Illumina Hiseq3000
