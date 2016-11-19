@@ -9,7 +9,7 @@ author: ZY
 * content
 {:toc}
 
-近期一直在学习如何处理二代测序数据，第一步就是将从测序公司拿到的raw data去接头处理。公司拿来的数据附带了clean data以及去接头的说明文件，对文件进行分析后我自己重新实现了一下trim的过程。
+Trim Galore是一个非常流行的用于去接头序列的软件，用于高通量测序得到的原始数据。通常我们从测序公司拿到数据后，第一步就是评估数据的质量以及对raw data去接头处理。公司拿来的数据通常附带了clean data以及去接头的说明文件，我自己重新实现了一下trim的过程。参数都是根据公司的说明文件来设定的。
 
 
 
@@ -49,8 +49,8 @@ Paired-end RNA-seq
 <br>Cutadapt version: 1.11
 <br>Quality Phred score cutoff: 25
 <br>Quality encoding type selected: ASCII+33
-<br>Adapter sequence: ***
+<br>Adapter sequence: ...
 <br>Maximum trimming error rate: 0.1 (default)
-<br>Optional adapter 2 sequence (only used for read 2 of paired-end files): ***
+<br>Optional adapter 2 sequence (only used for read 2 of paired-end files): ...
 <br>Minimum required adapter overlap (stringency): 5 bp
 <br>Minimum required sequence length for both reads before a sequence pair gets removed: 50 bp
