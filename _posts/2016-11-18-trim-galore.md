@@ -29,7 +29,7 @@ Trim Galore是一个非常流行的用于去接头序列的软件，用于高通
 3. Cutadapt是python的一个包，可以直接用pip install cutadapt命令安装。
 
 ### 参数概览
-这篇文章只讨论了部分参数（与我的数据相关的部分）。其余的可以参考官方文档（[Trim_Galore_User_Guide](http://www.bioinformatics.bbsrc.ac.uk/projects/trim_galore/)）。
+这里只讨论了部分参数（与我的数据相关的部分，数据情况请参照下面）。其余参数的设定可以参考官方文档（[Trim_Galore_User_Guide](http://www.bioinformatics.bbsrc.ac.uk/projects/trim_galore/)）。
 
 - -q/--quality <INT>：控制的质量分数阈值
 - --length <INT>：丢弃小于此长度的读段
