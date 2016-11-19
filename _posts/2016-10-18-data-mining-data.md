@@ -2,8 +2,7 @@
 layout: post
 title: "数据挖掘中的数据处理"
 categories: 数据科学
-tags: 数据挖掘导论 阅读笔记 数据处理
-description: 个人学习
+tags: 机器学习/数据挖掘 阅读笔记 数据处理
 author: ZY
 ---
 
