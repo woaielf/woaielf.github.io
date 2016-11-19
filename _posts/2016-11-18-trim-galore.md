@@ -17,8 +17,9 @@ author: ZY
 ## 软件说明
 
 ### 版本信息
-Trim Galore version: 0.4.1 <br>
-Cutadapt version: 1.11
+
+1. Trim Galore version: 0.4.1 <br>
+2. Cutadapt version: 1.11
 
 ### 参数概览
 这篇文章只讨论了部分参数（与我的数据相关的部分）。其余的可以参考官方文档（[Trim_Galore_User_Guide](http://www.bioinformatics.bbsrc.ac.uk/projects/trim_galore/）
@@ -34,8 +35,8 @@ Cutadapt version: 1.11
 ## 案例分析
 
 ### 测序数据
-> Illumina Hiseq3000 <br>RNA-seq <br>paired-end
-
+Illumina Hiseq3000 <br> 
+Paired-end RNA-seq 
 
 ### 代码展示
 ```
@@ -43,4 +44,13 @@ Cutadapt version: 1.11
 ```
 
 ### 软件输出
-![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/7-trim.png)
+> Trimming mode: paired-end
+<br>Trim Galore version: 0.4.1
+<br>Cutadapt version: 1.11
+<br>Quality Phred score cutoff: 25
+<br>Quality encoding type selected: ASCII+33
+<br>Adapter sequence: ***
+<br>Maximum trimming error rate: 0.1 (default)
+<br>Optional adapter 2 sequence (only used for read 2 of paired-end files): ***
+<br>Minimum required adapter overlap (stringency): 5 bp
+<br>Minimum required sequence length for both reads before a sequence pair gets removed: 50 bp
