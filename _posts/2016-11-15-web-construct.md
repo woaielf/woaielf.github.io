@@ -16,6 +16,10 @@ SQL/MySQL一系列编程语言，最终成功的完成了课题。几天前将�
 
 
 
+## 注意事项
+- 默认阅读顺序：从右→左，顺时针方向。
+- 图片信息量太大，建议右键→查看图像，放大图片后细看。
+
 ## 思维导图
 
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/6-web.png)
