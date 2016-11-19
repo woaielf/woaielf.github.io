@@ -22,8 +22,7 @@ Trim Galore是一个非常流行的用于去接头序列的软件，用于高通
 2. Cutadapt version: 1.11
 
 ### 参数概览
-这篇文章只讨论了部分参数（与我的数据相关的部分）。其余的可以参考官方文档（[Trim_Galore_User_Guide](http://www.bioinformatics.bbsrc.ac.uk/projects/trim_galore/）
-)。
+这篇文章只讨论了部分参数（与我的数据相关的部分）。其余的可以参考官方文档（[Trim_Galore_User_Guide](http://www.bioinformatics.bbsrc.ac.uk/projects/trim_galore/)）。
 
 - -q/--quality <INT>：控制的质量分数阈值
 - --length <INT>：丢弃小于此长度的读段
