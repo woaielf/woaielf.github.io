@@ -14,14 +14,14 @@ author: ZY
 
 
 
-## 软件说明
+## **软件说明**
 
-#### 版本信息
+### 版本信息
 Trim Galore version: 0.4.1
 
 Cutadapt version: 1.11
 
-#### 参数概览
+### 参数概览
 这篇文章只讨论了部分参数（与我的数据相关的部分）。其余的可以参考官方文档。[Trim_Galore_User_Guide](http://www.bioinformatics.bbsrc.ac.uk/projects/trim_galore/)
 
 - -q/--quality <INT> 控制的质量分数阈值
@@ -35,20 +35,20 @@ Cutadapt version: 1.11
 - -o 输出文件路径
 
 
-## 案例分析
+## **案例分析**
 
-#### 测序数据
+### 测序数据
 Illumina Hiseq3000
 
 RNA-seq 
 
 paired-end
 
-#### 代码展示
+### 代码展示
 ```
 /.../trim_galore /.../*_R1.fastq /.../*_R2.fastq -q 25 --length 50 -e 0.1 --stringency 5 -o /.../ -a adapter1 -a2 adapter2 --paired
 ```
 
-#### 软件输出
+### 软件输出
 
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/7-trim.png)
