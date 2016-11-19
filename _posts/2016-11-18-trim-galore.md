@@ -23,8 +23,9 @@ Trim Galore是一个非常流行的用于去接头序列的软件，用于高通
 
 ### 软件安装
 **Trim Galore**：直接在[官网](http://www.bioinformatics.bbsrc.ac.uk/projects/download.html#trim_galore)下载解压后即可使用。<br>
-**注意**：
-1. 软件是依赖[FastQC](http://www.bioinformatics.bbsrc.ac.uk/projects/fastqc/)和[Cutadapt](https://pypi.python.org/pypi/cutadapt/)于这两个软件的。必须先安装这两个软件。
+**注意事项**：
+
+1. 软件是依赖[FastQC](http://www.bioinformatics.bbsrc.ac.uk/projects/fastqc/)和[Cutadapt](https://pypi.python.org/pypi/cutadapt/)于这两个软件的。必须先安装它们。
 2. Cutadapt是python的一个包，可以直接用pip install cutadapt命令安装。
 
 ### 参数概览
