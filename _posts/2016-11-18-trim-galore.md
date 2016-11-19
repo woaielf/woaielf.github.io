@@ -23,11 +23,12 @@ Cutadapt version: 1.11
 ### 参数概览
 这篇文章只讨论了部分参数（与我的数据相关的部分）。其余的可以参考官方文档（[Trim_Galore_User_Guide](http://www.bioinformatics.bbsrc.ac.uk/projects/trim_galore/）
 )。
-- -q/--quality <INT> 控制的质量分数阈值
-- --length <INT> 丢弃小于此长度的读段
-- -e 允许的错误率
-- --stringency Overlap with adapter sequence required to trim a sequence.
-- -o 输出文件路径
+
+- -q/--quality <INT>：控制的质量分数阈值
+- --length <INT>：丢弃小于此长度的读段
+- -e：允许的错误率
+- --stringency：限定最少与adaptor序列重叠的碱基数（用来trim的标准）
+- -o：输出文件路径
 
 
 ## 案例分析
@@ -42,5 +43,4 @@ Cutadapt version: 1.11
 ```
 
 ### 软件输出
-
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/7-trim.png)
