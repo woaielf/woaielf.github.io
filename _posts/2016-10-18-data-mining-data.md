@@ -24,3 +24,6 @@ author: ZY
 
 ## 参考资料
 > 《数据挖掘导论》Pang-Ning Tan etc.
+
+## Update Log
+- 2016/10/18

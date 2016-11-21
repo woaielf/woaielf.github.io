@@ -59,3 +59,6 @@ Paired-end RNA-seq
 <br>Optional adapter 2 sequence (only used for read 2 of paired-end files): ...
 <br>Minimum required adapter overlap (stringency): 5 bp
 <br>Minimum required sequence length for both reads before a sequence pair gets removed: 50 bp
+
+## Update Log
+- 2016/11/18

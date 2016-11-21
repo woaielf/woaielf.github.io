@@ -26,3 +26,6 @@ author: ZY
 
 ## 参考资料
 > 《数据挖掘导论》Pang-Ning Tan etc. <br>周志华：数据挖掘与机器学习
+
+## Update Log
+- 2016/10/17
