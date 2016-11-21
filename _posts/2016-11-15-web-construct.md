@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "如何从零开始搭建网站？"
+title: "【总结】如何从零开始搭建网站？"
 categories: 编程基础
-tags:  思考总结 Web编程
-description: 科研生活
+tags:  Web编程
 author: ZY
 ---
 

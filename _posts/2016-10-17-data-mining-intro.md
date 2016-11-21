@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "数据挖掘的基本思想"
+title: "【笔记】数据挖掘的基本思想"
 categories: 数据科学
-tags: 机器学习/数据挖掘 阅读笔记 数据概念
+tags: 机器学习/数据挖掘 数据概念
 author: ZY
 ---
 

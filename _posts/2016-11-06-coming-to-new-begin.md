@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "写在大学生涯的第6年"
+title: "【内省】写在大学生涯的第6年"
 categories: 生活札记
 tags: 思考总结
 author: ZY

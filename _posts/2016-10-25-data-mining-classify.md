@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "数据挖掘中的分类问题"
+title: "【笔记】数据挖掘中的分类问题"
 categories: 数据科学
-tags: 机器学习/数据挖掘 阅读笔记 分类问题
+tags: 机器学习/数据挖掘 分类问题
 author: ZY
 ---
 
