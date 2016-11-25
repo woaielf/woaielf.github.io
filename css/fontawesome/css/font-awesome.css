@@ -27,6 +27,7 @@
 }
 .fa-2x {
   font-size: 2em;
+  border-left: 6px solid #4d6dad;
 }
 .fa-3x {
   font-size: 3em;
