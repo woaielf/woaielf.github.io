@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据科学进阶路线"
+title: "【总结】数据科学进阶路线"
 categories: 数据科学
 tags: 数据科学 计划
 author: ZY

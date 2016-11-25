@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python学习进阶路线"
+title: "【总结】Python学习进阶路线"
 categories: 编程之魅
 tags: Python 计划
 author: ZY
