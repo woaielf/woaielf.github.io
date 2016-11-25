@@ -19,10 +19,10 @@ author: ZY
 - 图片信息量太大，建议右键→查看图像，放大图片后细看。
 
 ## 主要内容
-![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/2-data-mining.png)
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1610/161017-1.png)
 
 ## 三大领域的异同比较
-![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/2-data-mining2.png)
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1610/161017-2.png)
 
 ## 参考资料
 > 《数据挖掘导论》Pang-Ning Tan etc. <br>周志华：数据挖掘与机器学习
