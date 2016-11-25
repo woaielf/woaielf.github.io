@@ -20,12 +20,12 @@ SQL/MySQL一系列编程语言，最终成功的完成了课题。几天前将�
 - 图片信息量太大，建议右键→查看图像，放大图片后细看。
 
 ## 思维导图
-![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/6-web.png)
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1611/161115-1.png)
 
 ## PPT展示
 
 <video width="800" height="450" controls="controls">
-    <source src="https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Video/Web_Design_ZY.mp4" type="video/mp4" />
+    <source src="https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Video/161115.mp4" type="video/mp4" />
 </video>
 
 ## Update Log
