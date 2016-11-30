@@ -20,8 +20,7 @@ icon: bookmark
 ## 个人提升
 
 ### 效率类
-* [少数派](http://sspai.com/)   
-可以挖掘各种实用的软件。
+* [少数派](http://sspai.com/) 可以挖掘各种实用的软件。
 
 
 
