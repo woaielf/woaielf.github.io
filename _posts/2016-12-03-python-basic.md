@@ -2,7 +2,7 @@
 layout: post
 title: "【总结】Python核心知识"
 categories: 编程之魅
-tags: python
+tags: Python
 author: ZY
 ---
 
@@ -17,33 +17,33 @@ author: ZY
 ## 思维导图
 
 ### 基础知识
-![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1609/160915-1.png)
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161203-1.png)
 
 ### 数据类型
-![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1609/160915-2.png)
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161203-2.png)
 
 ### 循环和判断
-![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1609/160915-3.png)
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161203-3.png)
 
 ### 函数
-![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1609/160915-4.png)
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161203-4.png)
  
-![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1609/160915-5.png)
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161203-5.png)
 
 ### 常用内置函数
-![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1609/160915-6.png)
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161203-6.png)
 
 ### 模块
-![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1609/160915-7.png)
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161203-7.png)
 
 ### 面向对象编程
-![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1609/160915-8.png)
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161203-8.png)
 
 ### 错误处理
-![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1609/160915-9.png)
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161203-9.png)
 
 ### 补充
-![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1609/160915-10.png)
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161203-10.png)
 
 ## 参考资料
 > 廖雪峰博客 <br>
