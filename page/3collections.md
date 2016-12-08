@@ -27,6 +27,8 @@ icon: bookmark
 ### 二代测序分析
 * [bcbio-nextgen](http://bcbio-nextgen.readthedocs.io/en/latest/index.html) ——用于处理二代测序数据的Python包。
 
+### 优质博客
+
 
 ## 个人提升
 
