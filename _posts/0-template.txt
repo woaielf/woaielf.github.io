@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "「」"
+title: ""
 categories: 
 tags: 
 author: ZY
@@ -9,7 +9,6 @@ author: ZY
 * content
 {:toc}
 
-前言
 
 
 
@@ -18,13 +17,25 @@ author: ZY
 
 ### 三级标题
 
+
+
+
+
+
+## Update Log
+- 2016//
+
+
+
+-----------------------
+
+「」
+<font color="red"></font>
+
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/?.png)
 
 <video width="800" height="450" controls="controls">
     <source src="https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Video/?.mp4" type="video/mp4" />
 </video>
 
-
-## Update Log
-- 2016//
-
+--------------------
