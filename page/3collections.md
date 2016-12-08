@@ -8,19 +8,32 @@ icon: bookmark
 * content
 {:toc}
 
-## 常用网站
+## 编程GoGo
 
-### 基本网站
-* [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) 必备文献搜索网站。
+### Python
+* []() 
 
-### 工具类（Python）
+### R
+
+### 其他
+
+## 数据科学
+
+### 资讯类
+
+### 统计
+
+## 生物信息
+
+### 二代测序分析
 * [bcbio-nextgen](http://bcbio-nextgen.readthedocs.io/en/latest/index.html) 用于处理二代测序数据的Python包。
 
 
 ## 个人提升
 
 ### 效率类
-* [少数派](http://sspai.com/) 可以挖掘各种实用的软件。
+* [少数派](http://sspai.com/) 可以挖掘各种提升效能的软件。
+* [小强的时间管理博客](http://www.gtdlife.com/) 非常好的学习时间管理的博客。
 
 
 
