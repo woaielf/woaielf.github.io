@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【笔记】Python基础篇（四）：错误处理及其他话题"
+title: "【笔记】Python基础篇（四）错误处理&其他话题"
 categories: 编程之魅
 tags: Python
 author: ZY
