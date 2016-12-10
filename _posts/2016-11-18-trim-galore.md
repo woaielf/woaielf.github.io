@@ -17,15 +17,18 @@ Trim Galore是一个非常流行的用于<font color="red">「去接头序列」
 ## 软件说明
 
 ### 版本信息
-
 1. Trim Galore version: 0.4.1
 2. Cutadapt version: 1.11
 3. FastQC version：0.11.3
 
+### 依赖环境
+1. [FastQC](http://www.bioinformatics.bbsrc.ac.uk/projects/fastqc/)
+2. [Cutadapt](https://pypi.python.org/pypi/cutadapt/)
+
+
 ### 软件安装
-1. Trim Galore直接在[官网](http://www.bioinformatics.bbsrc.ac.uk/projects/download.html#trim_galore)下载解压后即可使用（perl文件，无需任何安装）。<br>
-2. 软件是依赖[FastQC](http://www.bioinformatics.bbsrc.ac.uk/projects/fastqc/)和[Cutadapt](https://pypi.python.org/pypi/cutadapt/)于这两个软件的。**必须先安装它们**。
-3. Cutadapt是python的一个包，可以直接用pip install cutadapt命令安装。
+Trim Galore直接在[官网](http://www.bioinformatics.bbsrc.ac.uk/projects/download.html#trim_galore)下载解压后即可使用（perl文件，无需任何安装）。<br>
+
 
 ### 参数概览
 这里只讨论了<font color="red">部分参数</font>（与我的数据相关的部分，数据情况请参照下面）。其余参数的设定可以参考「官方文档」（[Trim_Galore_User_Guide](http://www.bioinformatics.bbsrc.ac.uk/projects/trim_galore/)）。
@@ -59,6 +62,9 @@ Paired-end RNA-seq
 <br>Optional adapter 2 sequence (only used for read 2 of paired-end files): ...
 <br>Minimum required adapter overlap (stringency): 5 bp
 <br>Minimum required sequence length for both reads before a sequence pair gets removed: 50 bp
+
+## 参考资料
+> [http://www.bioinformatics.bbsrc.ac.uk/projects/trim_galore/](http://www.bioinformatics.bbsrc.ac.uk/projects/trim_galore/)
 
 ## Update Log
 - 2016/11/18

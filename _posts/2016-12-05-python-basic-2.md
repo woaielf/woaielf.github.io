@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【总结】Python基础篇（二）：函数"
+title: "【笔记】Python基础篇（二）：函数"
 categories: 编程之魅
 tags: Python
 author: ZY
