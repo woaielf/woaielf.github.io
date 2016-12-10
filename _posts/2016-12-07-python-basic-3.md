@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【笔记】Python基础篇（三）：模块和对象"
+title: "【笔记】Python基础篇（三）：模块和面向对象编程"
 categories: 编程之魅
 tags: Python
 author: ZY
