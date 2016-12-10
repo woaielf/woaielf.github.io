@@ -9,7 +9,7 @@ author: ZY
 * content
 {:toc}
 
-本文是我的Python学习笔记第三篇。主要涉及了python编程中的「模块」以及「面向对象编程」。
+本文是我的「Python学习笔记」第三篇。主要涉及了python编程中的「模块」以及「面向对象编程」。
 
 
 
