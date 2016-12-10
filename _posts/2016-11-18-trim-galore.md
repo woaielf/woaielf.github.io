@@ -9,7 +9,7 @@ author: ZY
 * content
 {:toc}
 
-Trim Galore是一个非常流行的用于去接头序列的软件，用于高通量测序得到的原始数据。通常我们从测序公司拿到数据后，第一步就是评估数据的质量以及对raw data去接头处理。公司拿来的数据通常附带了clean data以及去接头的说明文件，我自己重新实现了一下trim的过程。参数都是根据公司的说明文件来设定的。
+Trim Galore是一个非常流行的用于<font color="red">「去接头序列」</font>的软件，用于处理**高通量测序得到的原始数据**。通常我们从测序公司拿到数据后，第一步就是**评估数据的质量以及对raw data去接头处理**。公司拿来的数据通常附带了clean data以及去接头的说明文件，我自己重新实现了一下trim的过程。参数都是根据公司的说明文件来设定的。
 
 
 
@@ -24,11 +24,11 @@ Trim Galore是一个非常流行的用于去接头序列的软件，用于高通
 
 ### 软件安装
 1. Trim Galore直接在[官网](http://www.bioinformatics.bbsrc.ac.uk/projects/download.html#trim_galore)下载解压后即可使用（perl文件，无需任何安装）。<br>
-2. 软件是依赖[FastQC](http://www.bioinformatics.bbsrc.ac.uk/projects/fastqc/)和[Cutadapt](https://pypi.python.org/pypi/cutadapt/)于这两个软件的。必须先安装它们。
+2. 软件是依赖[FastQC](http://www.bioinformatics.bbsrc.ac.uk/projects/fastqc/)和[Cutadapt](https://pypi.python.org/pypi/cutadapt/)于这两个软件的。**必须先安装它们**。
 3. Cutadapt是python的一个包，可以直接用pip install cutadapt命令安装。
 
 ### 参数概览
-这里只讨论了部分参数（与我的数据相关的部分，数据情况请参照下面）。其余参数的设定可以参考官方文档（[Trim_Galore_User_Guide](http://www.bioinformatics.bbsrc.ac.uk/projects/trim_galore/)）。
+这里只讨论了<font color="red">部分参数</font>（与我的数据相关的部分，数据情况请参照下面）。其余参数的设定可以参考「官方文档」（[Trim_Galore_User_Guide](http://www.bioinformatics.bbsrc.ac.uk/projects/trim_galore/)）。
 
 - -q/--quality <INT>：控制的质量分数阈值
 - --length <INT>：丢弃小于此长度的读段
