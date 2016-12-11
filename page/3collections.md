@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Collections
+subtitle: hahaha
 permalink: /collection/
 icon: bookmark
 ---
@@ -8,19 +9,24 @@ icon: bookmark
 * content
 {:toc}
 
-## 编程GoGo
+## I Love Coding~
 
 ### Python
+* []()
 
 ### R
+* []()
 
 ### 其他
+* []()
 
 ## 数据科学
 
 ### 资讯类
+* []()
 
 ### 统计
+* []()
 
 ## 生物信息
 
@@ -28,7 +34,7 @@ icon: bookmark
 * [bcbio-nextgen](http://bcbio-nextgen.readthedocs.io/en/latest/index.html) ——用于处理二代测序数据的Python包。
 
 ### 优质博客
-
+* []()
 
 ## 个人提升
 
