@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Collections
-subtitle: hahaha
 permalink: /collection/
 icon: bookmark
 ---
@@ -9,7 +8,7 @@ icon: bookmark
 * content
 {:toc}
 
-## I Love Coding~
+## I Love Coding
 
 ### Python
 * []()
