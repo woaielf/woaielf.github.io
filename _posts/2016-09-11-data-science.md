@@ -26,6 +26,7 @@ author: ZY
 * 详见「系列博文」[【索引】Python从基础到进阶](https://woaielf.github.io/2016/09/09/python/)
 
 ### SQL
+* []()
 
 ## 算法
 
@@ -38,10 +39,13 @@ author: ZY
 * [【笔记】Excel学习笔记](https://woaielf.github.io/2016/11/08/excel/)
 
 ### 数据库
+* []()
 
 ### 大数据工具
+* []()
 
 ### 数据可视化
+* []()
 
 
 
