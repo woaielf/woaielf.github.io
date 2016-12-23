@@ -15,7 +15,7 @@ author: ZY
 
 
 ## 数理统计
-* []()
+* [【笔记】统计（一）描述性统计](https://woaielf.github.io/2016/12/21/sta-1/)
 
 ## 编程语言
 
@@ -27,6 +27,9 @@ author: ZY
 
 ### SQL
 * []()
+
+### Linux & Shell
+* [【笔记】简易Shell编程](https://woaielf.github.io/2016/12/15/shell/)
 
 ## 算法
 
