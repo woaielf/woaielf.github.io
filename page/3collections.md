@@ -14,7 +14,7 @@ icon: bookmark
 ## I Love Coding
 
 ### Python
-* [Pythoner 你像从前一样的Python学习笔记](http://www.pythoner.com/)——爱上读书笔记！
+* [Pythoner 你像从前一样的Python学习笔记](http://www.pythoner.com/)——从这里爱上读书笔记。
 
 ### R
 * [R-bloggers](https://www.r-bloggers.com/)
@@ -48,16 +48,16 @@ icon: bookmark
 ## 个人提升
 
 ### 效率类
-* [少数派](http://sspai.com/) ——可以挖掘各种提升效能的软件。
+* [少数派](http://sspai.com/) ——挖掘各种提升效能的软件。
 
 ## 价值博客
 
 ### 成长
-* [刘未鹏 | Mind Hacks](http://mindhacks.cn/)——放在第一位，不必言说。
-* [小强的时间管理博客](http://www.gtdlife.com/) ——非常好的学习时间管理的博客。
+* [刘未鹏 Mind Hacks](http://mindhacks.cn/)——放在第一位，不必言说。
+* [小强的时间管理博客](http://www.gtdlife.com/) ——学习时间管理。
 
 ### 他人
-* [CodingCrush](http://codingcrush.me/)——一个暖通硕士转行Python后端的学习历程。
+* [CodingCrush](http://codingcrush.me/)——暖通硕士转行Python后端的学习历程。
 
 
 
