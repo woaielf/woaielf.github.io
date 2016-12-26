@@ -7,7 +7,7 @@
 
 # Site settings
 title: 数林觅风
-brief-intro: data science & bioinformatics 
+brief-intro: 数据科学 & 思维导图
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://woaielf.github.io" # the base hostname & protocol for your site
 
