@@ -8,16 +8,20 @@ icon: bookmark
 * content
 {:toc}
 
+
+
+
 ## I Love Coding
 
 ### Python
-* []()
+* [Pythoner 你像从前一样的Python学习笔记](http://www.pythoner.com/)——爱上读书笔记！
 
 ### R
-* []()
+* [R-bloggers](https://www.r-bloggers.com/)
 
 ### 其他
 * []()
+
 
 ## 数据科学
 
@@ -27,19 +31,33 @@ icon: bookmark
 ### 统计
 * []()
 
+### 博客
+* [数据科学沉思录](http://yphuang.github.io/)——厦大统计学硕士，R&Python。
+
+
 ## 生物信息
+
+### 博客
+* [生信菜鸟团](http://www.bio-info-trainee.com/)——博主几年来的成长非常惊人。
+* [Sam's Note](http://qinqianshan.com/sample-page/)——原「每日一生信」系列博文。
 
 ### 二代测序分析
 * [bcbio-nextgen](http://bcbio-nextgen.readthedocs.io/en/latest/index.html) ——用于处理二代测序数据的Python包。
 
-### 优质博客
-* []()
 
 ## 个人提升
 
 ### 效率类
 * [少数派](http://sspai.com/) ——可以挖掘各种提升效能的软件。
+
+## 价值博客
+
+### 成长
+* [刘未鹏 | Mind Hacks](http://mindhacks.cn/)——放在第一位，不必言说。
 * [小强的时间管理博客](http://www.gtdlife.com/) ——非常好的学习时间管理的博客。
+
+### 他人
+* [CodingCrush](http://codingcrush.me/)——一个暖通硕士转行Python后端的学习历程。
 
 
 
