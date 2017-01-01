@@ -50,6 +50,9 @@ icon: bookmark
 ### 效率类
 * [少数派](http://sspai.com/) ——挖掘各种提升效能的软件。
 
+### 参考
+* [Xmind官网](http://www.xmind.net/share/)——各种优秀的思维导图。
+
 ## 价值博客
 
 ### 成长
@@ -58,6 +61,8 @@ icon: bookmark
 
 ### 他人
 * [CodingCrush](http://codingcrush.me/)——暖通硕士转行Python后端的学习历程。
+* [萤火之森](http://frankorz.com/)——工具就是生产力呀~
+* [独立写生](http://www.cnfeat.com/)——每日千字文践行
 
 
 
