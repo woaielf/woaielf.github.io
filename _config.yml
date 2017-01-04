@@ -7,7 +7,7 @@
 
 # Site settings
 title: ZY | 数林觅风
-brief-intro: 「数据科学」&「思维导图」
+brief-intro: Data Science & MindMap
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://woaielf.github.io" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ email: zhaoyueelf@163.com
 # linkedIn_username: gaohaoyang
 # dribbble_username:
 
-description_footer: 学习笔记&成长小记
+description_footer: 「数据科学」思维导图笔记
 
 # comments
 # two ways to comment, only choose one, and use your own short name
