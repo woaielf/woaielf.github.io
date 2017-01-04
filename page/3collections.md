@@ -48,10 +48,11 @@ icon: bookmark
 ## 个人提升
 
 ### 效率类
-* [少数派](http://sspai.com/) ——挖掘各种提升效能的软件。
+* [少数派](http://sspai.com/) 。
 
 ### 参考
-* [Xmind官网](http://www.xmind.net/share/)——各种优秀的思维导图。
+* [Xmind官网](http://www.xmind.net/share/)
+* [Mind Map Library](http://www.biggerplate.com/mindmap-library)
 
 ## 价值博客
 
