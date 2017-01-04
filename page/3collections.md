@@ -17,7 +17,7 @@ icon: bookmark
 「[Pythoner：你像从前一样的Python学习笔记](http://www.pythoner.com/)」
 
 ### R
-「R-bloggers](https://www.r-bloggers.com/)」 
+「[R-bloggers](https://www.r-bloggers.com/)」 
 
 ### Others
 「[数据科学沉思录](http://yphuang.github.io/)」
