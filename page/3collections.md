@@ -27,20 +27,17 @@ icon: bookmark
 ## 生物信息
 
 ### 博客
-* [生信菜鸟团](http://www.bio-info-trainee.com/)
-* [Sam's Note](http://qinqianshan.com/sample-page/)
+* [生信菜鸟团](http://www.bio-info-trainee.com/) | [Sam's Note](http://qinqianshan.com/sample-page/)
 
 
 
 ## 价值网站
 
 ### MindMap
-* [Xmind官网](http://www.xmind.net/share/)
-* [Mind Map Library](http://www.biggerplate.com/mindmap-library)
+* [Xmind官网](http://www.xmind.net/share/) | [Mind Map Library](http://www.biggerplate.com/mindmap-library)
 
 ### 成长
-* [刘未鹏 Mind Hacks](http://mindhacks.cn/)
-* [小强的时间管理博客](http://www.gtdlife.com/)
+* [刘未鹏 Mind Hacks](http://mindhacks.cn/) | [小强的时间管理博客](http://www.gtdlife.com/)
 
 ### 参考
 * [CodingCrush](http://codingcrush.me/) | [萤火之森](http://frankorz.com/) | [独立写生](http://www.cnfeat.com/)
