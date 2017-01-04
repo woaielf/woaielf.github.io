@@ -11,7 +11,7 @@ icon: bookmark
 
 
 
-## I Love DataScience
+## Data Science
 
 ### Python
 「[Pythoner：你像从前一样的Python学习笔记](http://www.pythoner.com/)」
@@ -24,23 +24,27 @@ icon: bookmark
 
 
 
-## 生物信息
+## 学海无涯
 
-### 博客
+### 生信博客
 「[生信菜鸟团](http://www.bio-info-trainee.com/)」「[Sam's Note](http://qinqianshan.com/sample-page/)」
 
+### 公开课
 
 
 ## 价值网站
 
-### MindMap
-「[Xmind官网](http://www.xmind.net/share/)」「[Mind Map Library](http://www.biggerplate.com/mindmap-library)」
-
-### 成长
+### 精进
 「[刘未鹏 Mind Hacks](http://mindhacks.cn/)」「[小强的时间管理博客](http://www.gtdlife.com/)」
 
 ### 参考
-「[CodingCrush](http://codingcrush.me/)」「[萤火之森](http://frankorz.com/)」「[独立写生](http://www.cnfeat.com/)」
+「[CodingCrush](http://codingcrush.me/)」「[萤火之森](http://frankorz.com/)」「[独立写生](http://www.cnfeat.com/)」「[Randy's Blog](https://lutaonan.com/)」
+
+### 有趣
+「[努力加餐饭](http://chenxiaohua.net/)」
+
+### MindMap
+「[Xmind官网](http://www.xmind.net/share/)」「[Mind Map Library](http://www.biggerplate.com/mindmap-library)」
 
 
 
