@@ -22,11 +22,11 @@ SQL/MySQL**一系列编程语言，最终较为满意的完成了课题。几天
 ## 思维导图
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1611/161115-1.png)
 
-## PPT展示
+<!-- ## PPT展示
 
 <video width="800" height="450" controls="controls">
     <source src="https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Video/161115.mp4" type="video/mp4" />
-</video>
+</video> -->
 
 ## Update Log
 - 2016/11/15
