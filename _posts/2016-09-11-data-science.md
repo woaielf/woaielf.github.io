@@ -24,7 +24,8 @@ author: ZY
 * [【笔记】统计（七）多个比率的比较&独立性检验&拟合优度检验](https://woaielf.github.io/2017/01/03/sta-7/)
 * [【笔记】统计（八）实验设计&方差分析](https://woaielf.github.io/2017/01/06/sta-8/)
 * [【笔记】统计（九）简单线性回归](https://woaielf.github.io/2017/02/14/sl-regression/)
-* []()
+* [【笔记】统计（十）多元回归&回归分析](https://woaielf.github.io/2017/02/17/regression-2/)
+* [【笔记】统计（十一）时间序列及预测&非参数方法](https://woaielf.github.io/2017/02/20/none-para/)
 
 
 ## 编程语言
