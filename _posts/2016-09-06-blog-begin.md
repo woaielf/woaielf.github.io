@@ -21,11 +21,11 @@ author: ZY
 
 ## 博文目录及标签
 1.下面这张思维导图展示了本站的组织结构，「一级标题」为我的博客的category，「二级标题」列出了该类下特有的tag，「博文内容」是每篇博文标题前缀，表明该篇博文的性质。<br>
-2.生信相关软件在category「生物信息」中。<br>
-3.图示**黑体加粗**表明是一个标签名字。<br>
+2.图示**黑体加粗**表明是一个标签名字。<br>
 
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1609/160906-1.png)
 
 ## Update Log
-- 2016/09/06
+- 2017/03/20
 - 2016/11/25
+- 2016/09/06

@@ -21,7 +21,7 @@ icon: bookmark
 
 ### Others
 「[数据科学沉思录](http://yphuang.github.io/)」
-「[运营大湿兄「](https://ask.hellobi.com/blog/qinlu)」
+「[运营大湿兄](https://ask.hellobi.com/blog/qinlu)」
 
 
 
