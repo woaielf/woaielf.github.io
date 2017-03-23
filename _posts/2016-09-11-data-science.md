@@ -26,6 +26,7 @@ author: ZY
 * [【笔记】统计（九）简单线性回归](https://woaielf.github.io/2017/02/14/sl-regression/)
 * [【笔记】统计（十）多元回归&回归分析](https://woaielf.github.io/2017/02/17/regression-2/)
 * [【笔记】统计（十一）时间序列及预测&非参数方法](https://woaielf.github.io/2017/02/20/none-para/)
+* [【汇总】机器学习基础之「统计篇」](https://woaielf.github.io/2017/03/20/sta-all/)
 
 
 ## 编程语言
