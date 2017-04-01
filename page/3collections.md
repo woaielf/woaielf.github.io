@@ -23,6 +23,8 @@ icon: bookmark
 「[数据科学沉思录](http://yphuang.github.io/)」
 「[运营大湿兄](https://ask.hellobi.com/blog/qinlu)」
 
+### Machine Learning
+「[刘建平Pinard](http://www.cnblogs.com/pinard/)」
 
 
 ## 学海无涯
