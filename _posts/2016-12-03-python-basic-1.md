@@ -14,23 +14,30 @@ author: ZY
 
 
 
+## Update Log
+- 2016/12/03
+- 2017/04/24
+
 ## 思维导图
 
 ### 基础知识
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161203-1.png)
-
-### 数据类型
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161203-2.png)
 
-### 循环和判断
+### 数据类型
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161203-3.png)
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161203-4.png)
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161203-5.png)
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161203-6.png)
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161203-7.png)
+
+### 循环 & 判断
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161203-8.png)
 
 
 ## 参考资料
 > [廖雪峰博客](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000) <br>
-[Vamei博客：Python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html) <br>
-Python核心编程
+[Vamei 博客：Python 快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html) <br>
+《Python 核心编程》
 
 
-## Update Log
-- 2016/12/03
