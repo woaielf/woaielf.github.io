@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【实战】电商数据篇（一）——数据初探"
+title: "【实战】电商数据篇（一）数据初探"
 categories: 数据科学
 tags: 实例分析 
 author: ZY
