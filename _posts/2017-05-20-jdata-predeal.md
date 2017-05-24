@@ -177,7 +177,7 @@ df.head()
 
 ### age
 
-![png](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1705/jdata/0520-2.png)
+
 
 字段描述：-1表示未知
 
@@ -433,7 +433,9 @@ df.to_csv('data_ori/' + NEW_USER_FILE, index=False)
 
 ## 商品数据
 
-![png](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1705/jdata/0520-3.png)
+![png](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1705/jdata/0520-2.png)
+
+
 
 ```python
 df = pd.read_csv('data_ori/' + PRODUCT_FILE, header=0) 
@@ -658,7 +660,8 @@ len(df.sku_id.value_counts())
 
 ## 评价数据
 
-![png](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1705/jdata/0520-4.png)
+![png](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1705/jdata/0520-3.png)
+
 
 ```python
 df = pd.read_csv('data_ori/' + COMMENT_FILE, header=0)
@@ -783,6 +786,8 @@ df.dt.value_counts().sort_index()
 这里似乎发现，其实这个数据集就是对46546个数据条目，每周进行一次统计。
 
 ## 行为数据
+
+![png](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1705/jdata/0520-4.png)
 
 
 ```python
