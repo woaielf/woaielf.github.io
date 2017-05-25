@@ -32,11 +32,11 @@ author: ZY
 ```mysql
 CREATE DATABASE JData;
 USE JData;
-```
+
 
 ## 用户
 
-```mysql
+
 CREATE TABLE user(
     user_id INT NOT NULL,
     age TINYINT NOT NULL default -1,
