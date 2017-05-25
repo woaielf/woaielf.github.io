@@ -29,14 +29,14 @@ author: ZY
 
 首先我用 Python 分别跑了每个表每个字段的最大长度，供 MySQL 建表时参考。
 
-```mysql
+```python
 CREATE DATABASE JData;
 USE JData;
-
+```
 
 ## 用户
 
-
+```
 CREATE TABLE user(
     user_id INT NOT NULL,
     age TINYINT NOT NULL default -1,
