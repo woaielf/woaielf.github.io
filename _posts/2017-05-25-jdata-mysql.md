@@ -29,7 +29,7 @@ author: ZY
 
 首先我用 Python 分别跑了每个表每个字段的最大长度，供 MySQL 建表时参考。
 
-```python
+```
 CREATE DATABASE JData;
 USE JData;
 ```
@@ -52,7 +52,7 @@ LOAD DATA LOCAL INFILE "D:/02/data_ori/JData_User_New.txt" INTO TABLE user LINES
 
 ## 商品
 
-```mysql
+```
 CREATE TABLE product(
     sku_id INT NOT NULL,
     attr1 TINYINT NOT NULL,
@@ -68,7 +68,7 @@ LOAD DATA LOCAL INFILE "D:/02/data_ori/JData_Product.txt" INTO TABLE product LIN
 
 ## 评论
 
-```mysql
+```
 CREATE TABLE comment(
     id INT auto_increment NOT NULL,
     dt DATE,
@@ -84,7 +84,7 @@ LOAD DATA LOCAL INFILE "D:/02/data_ori/JData_Comment.txt" into table comment LIN
 
 ## 行为
 
-```mysql
+```
 CREATE TABLE actions(
     id INT auto_increment NOT NULL,
     user_id INT NOT NULL,
