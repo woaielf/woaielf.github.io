@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【实战】电商数据篇（二）MySQL 大作战"
+title: "【实战】电商数据篇（二）MySQL 实战指南"
 categories: 数据科学
 tags: 实例分析 
 author: ZY
@@ -480,7 +480,7 @@ cursor.fetchall()
 你也可以选择其他条件，这一部分运行可能需要很长时间！！
 
 1: 浏览 2: 加购 3: 删除 4: 购买 5: 收藏 6: 点击；
-```mysql
+```
 # 创建视图1：初步按照时间、活动类型筛选；过滤掉无活动的用户
 CREATE VIEW check1 AS 
 SELECT user_id, sku_id, count(*) as counts 
