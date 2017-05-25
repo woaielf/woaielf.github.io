@@ -66,13 +66,13 @@ import os
 
 ```python
 # 所有数据表
-ACTION_201602_FILE = "JData_Action_201602.csv"
-ACTION_201603_FILE = "JData_Action_201603.csv"
-ACTION_201604_FILE = "JData_Action_201604.csv"
-COMMENT_FILE = "JData_Comment.csv"
-PRODUCT_FILE = "JData_Product.csv"
-USER_FILE = "JData_User.csv"
-NEW_USER_FILE = "JData_User_New.csv"
+ACTION_2 = "JData_Action_201602.csv"
+ACTION_3 = "JData_Action_201603.csv"
+ACTION_4 = "JData_Action_201604.csv"
+COMMENT = "JData_Comment.csv"
+PRODUCT = "JData_Product.csv"
+USER = "JData_User.csv"
+NEW_USER = "JData_User_New.csv"
 ```
 
 
@@ -91,7 +91,7 @@ pd.options.display.float_format = '{:,.3f}'.format
 
 
 ```python
-df = pd.read_csv('data_ori/' + USER_FILE, header=0, encoding="gbk")
+df = pd.read_csv('data_ori/' + USER, header=0, encoding="gbk")
 ```
 
 
@@ -428,7 +428,7 @@ df.sex.value_counts()
 
 
 ```python
-df.to_csv('data_ori/' + NEW_USER_FILE, index=False) 
+df.to_csv('data_ori/' + NEW_USER, index=False) 
 ```
 
 ## 商品数据
@@ -438,7 +438,7 @@ df.to_csv('data_ori/' + NEW_USER_FILE, index=False)
 
 
 ```python
-df = pd.read_csv('data_ori/' + PRODUCT_FILE, header=0) 
+df = pd.read_csv('data_ori/' + PRODUCT, header=0) 
 ```
 
 
@@ -664,7 +664,7 @@ len(df.sku_id.value_counts())
 
 
 ```python
-df = pd.read_csv('data_ori/' + COMMENT_FILE, header=0)
+df = pd.read_csv('data_ori/' + COMMENT, header=0)
 df.head()
 ```
 
@@ -792,7 +792,7 @@ df.dt.value_counts().sort_index()
 
 ```python
 # 读入1000行。
-df = pd.read_csv('data_ori/' + ACTION_201602_FILE, header=0, nrows=10000)
+df = pd.read_csv('data_ori/' + ACTION_2, header=0, nrows=10000)
 ```
 
 
@@ -911,3 +911,8 @@ df.info()
 
 至此，我们已经对每个数据表进行了初步的探索和分析。因为数据表很大，一般的个人PC可能不足以支撑。在下一篇中，我将结合关系型数据库管理系统——MySQL来创建训练数据用的表。
 
+# Reference
+> [京东JData算法大赛](http://www.datafountain.cn/projects/jdata_beta/) <br>
+[foursking1/jd](https://github.com/foursking1/jd) <br>
+[ottsion/JData](https://github.com/ottsion/JData)
+[daoliker/JData](https://github.com/daoliker/JData)
