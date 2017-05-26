@@ -481,25 +481,27 @@ cursor.fetchall()
 
 1: 浏览 2: 加购 3: 删除 4: 购买 5: 收藏 6: 点击；
 ```
-# 创建视图1：初步按照时间、活动类型筛选；过滤掉无活动的用户
+# 创建视图1：初步按照时间、活动类型筛选；商品包含在 P 中；过滤掉无活动的用户
 CREATE VIEW check1 AS 
-SELECT user_id, sku_id, count(*) as counts 
-FROM actions 
-WHERE (action_type IN (2, 5)) AND (action_time > '2016-04-10')
-GROUP BY user_id, sku_id
+SELECT user_id, actions.sku_id, count(*) as counts 
+FROM actions
+JOIN product
+WHERE (actions.sku_id = product.sku_id) AND (action_type IN (2, 5)) AND (action_time > '2016-04-10')
+GROUP BY user_id, actions.sku_id
 HAVING counts > 1;
 
 # 创建视图2：这里我就直接选取计数最大的条目，不细究了
 CREATE VIEW check2 AS
 SELECT user_id, sku_id FROM check1
-WHERE counts = (SELECT MAX(counts) FROM check1 WHERE check1.user_id = user_id);
+WHERE counts = (SELECT MAX(counts) FROM check1 AS temp WHERE temp.user_id = check1.user_id);
 
 # 创建视图3：需要排除的用户及商品
 CREATE VIEW exclude AS 
-SELECT user_id, sku_id 
+SELECT user_id, actions.sku_id 
 FROM actions
-WHERE action_time > 2016-04-15 AND cate = 8 AND action_type in (3,4)
-GROUP BY user_id, sku_id;
+JOIN product
+WHERE (actions.sku_id = product.sku_id) AND (action_time > '2016-04-10') AND (action_type in (3,4))
+GROUP BY user_id, actions.sku_id;
 
 # 选取数据
 SELECT check2.user_id, check2.sku_id 
