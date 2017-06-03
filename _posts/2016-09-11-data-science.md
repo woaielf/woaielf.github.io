@@ -9,7 +9,7 @@ author: ZY
 * content
 {:toc}
 
-本文系统梳理了所有与「数据科学」相关的笔记。**首先以一幅思维导图总述，可以据此：**
+本文系统梳理了所有与「数据科学」相关的笔记。**首先以一幅思维导图总述，**据此：
 * 了解我现有的技能树及未来的成长路径；
 * 作为数据科学学习路径的参考（会持续完善）；
 * 激励我持续学习的目标 & 奋斗方向；
@@ -18,6 +18,16 @@ author: ZY
 
 
 
+
+## 最近更新
+- 2017/06/03
+
+## 总述导图
+**说明：**
+* 默认阅读顺序：**从右→左，顺时针方向**；
+* 图标说明：「红色旗标」——当前专注的项目，「任务进度」——该项目的学习进度（已完成/未开始/暂停中/进度情况）
+
+![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1609/160911-1.png)
 
 ## 数理统计
 * [【汇总】机器学习基础之「统计篇」](https://woaielf.github.io/2017/03/20/sta-all/)
@@ -60,6 +70,11 @@ author: ZY
 
 ## Linux & Shell
 * [【笔记】简易Shell编程](https://woaielf.github.io/2016/12/15/shell/)
+
+## R
+* [【笔记】R基础篇（一）基础概要](https://woaielf.github.io/2016/09/15/R-basic-1/)
+* [【笔记】R基础篇（二）数据结构](https://woaielf.github.io/2016/12/10/R-basic-2/)
+* [【笔记】R基础篇（三）数据管理](https://woaielf.github.io/2016/12/11/R-basic-3/)
 
 
 ## 软件工具
