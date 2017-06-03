@@ -24,7 +24,7 @@ author: ZY
 ## 总述导图
 
 * 默认阅读顺序：**从右→左，顺时针方向**；
-* 图标说明：「红色旗标」——当前专注的项目，「任务进度」——该项目的学习进度（已完成/未开始/暂停中/进度情况）
+* 图标说明：「红色旗标」—— 当前专注的项目，「任务进度」—— 该项目的学习进度（已完成/未开始/暂停中/进度情况）
 
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1609/160911-1.png)
 
@@ -80,7 +80,7 @@ author: ZY
 #### Linux & Shell
 * [【笔记】简易Shell编程](https://woaielf.github.io/2016/12/15/shell/)
 
-## 最近更新
+## Update Log
 - 2017/06/03
 
 
