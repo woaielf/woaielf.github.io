@@ -9,27 +9,27 @@ author: ZY
 * content
 {:toc}
 
-本文系统梳理了所有与「数据科学」相关的笔记。**首先以一幅思维导图总述，**据此：
-* 了解我现有的技能树及未来的成长路径；
-* 作为数据科学学习路径的参考（会持续完善）；
-* 激励我持续学习的目标 & 奋斗方向；
+本文系统梳理了所有与「数据科学」相关的笔记。首先以一幅思维导图总述，据此：
+* **了解我现有的技能树及未来的成长路径；**
+* **作为数据科学学习路径的参考（会持续完善）；**
+* **激励我持续学习的目标 & 奋斗方向；**
 
 <font color="red">【本文长期更新】</font>
 
 
 
 
-## 最近更新
-- 2017/06/03
+
 
 ## 总述导图
-**说明：**
+
 * 默认阅读顺序：**从右→左，顺时针方向**；
 * 图标说明：「红色旗标」——当前专注的项目，「任务进度」——该项目的学习进度（已完成/未开始/暂停中/进度情况）
 
 ![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1609/160911-1.png)
 
-## 数理统计
+## 相关笔记
+### 数理统计
 * [【汇总】机器学习基础之「统计篇」](https://woaielf.github.io/2017/03/20/sta-all/)
 * [【笔记】统计（一）描述性统计](https://woaielf.github.io/2016/12/21/sta-1/)
 * [【笔记】统计（二）概率&概率分布](https://woaielf.github.io/2016/12/23/sta-2/)
@@ -43,7 +43,7 @@ author: ZY
 * [【笔记】统计（十）多元回归&回归分析](https://woaielf.github.io/2017/02/17/regression-2/)
 * [【笔记】统计（十一）时间序列及预测&非参数方法](https://woaielf.github.io/2017/02/20/none-para/)
 
-## Python
+### Python
 * [【笔记】Python基础篇（一）基础&数据类型&控制流](https://woaielf.github.io/2016/12/03/python-basic-1/)
 * [【笔记】Python基础篇（二）函数&函数式编程](https://woaielf.github.io/2016/12/05/python-basic-2/)
 * [【笔记】Python基础篇（三）模块&面向对象编程](https://woaielf.github.io/2016/12/07/python-basic-3/)
@@ -54,7 +54,7 @@ author: ZY
 * [【笔记】数据可视化之「Matplotlib」](https://woaielf.github.io/2017/04/27/matplotlib/)
 
 
-## 机器学习
+### 机器学习
 * [【笔记】机器学习（一）理论准备](https://woaielf.github.io/2017/03/15/dm-1/)
 * [【笔记】机器学习（二）数据处理&相似/异性度量](https://woaielf.github.io/2017/03/17/dm-2/)
 * [【笔记】机器学习（三）数学基础之「线性代数」](https://woaielf.github.io/2017/03/25/dm-3/)
@@ -62,28 +62,26 @@ author: ZY
 * [【笔记】机器学习（五）维归约](https://woaielf.github.io/2017/03/31/dm-5/)
 * [【笔记】机器学习（六）分类方法-理论篇](https://woaielf.github.io/2017/04/06/dm-6/)
 
-
-
-## SQL & 数据库
+### SQL & 数据库
 * [【笔记】SQL & MySQL](https://woaielf.github.io/2017/05/04/sql/)
 * [【实战】电商数据篇（二）MySQL 实战指南](https://woaielf.github.io/2017/05/25/jdata-mysql/)
 
-## Linux & Shell
-* [【笔记】简易Shell编程](https://woaielf.github.io/2016/12/15/shell/)
-
-## R
+### R
 * [【笔记】R基础篇（一）基础概要](https://woaielf.github.io/2016/09/15/R-basic-1/)
 * [【笔记】R基础篇（二）数据结构](https://woaielf.github.io/2016/12/10/R-basic-2/)
 * [【笔记】R基础篇（三）数据管理](https://woaielf.github.io/2016/12/11/R-basic-3/)
 
 
-## 软件工具
+### 辅助技能
 
-### Excel
+#### Excel
 * [【笔记】Excel学习笔记](https://woaielf.github.io/2016/11/08/excel/)
 
+#### Linux & Shell
+* [【笔记】简易Shell编程](https://woaielf.github.io/2016/12/15/shell/)
 
-
+## 最近更新
+- 2017/06/03
 
 
 
