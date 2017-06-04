@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【笔记】Python基础篇（一）基础&数据类型&控制流"
+title: "【笔记】Python（一）基础篇之「基础&数据类型&控制流」"
 categories: 编程之魅
 tags: Python
 author: ZY

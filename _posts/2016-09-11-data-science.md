@@ -44,14 +44,14 @@ author: ZY
 * [【笔记】统计（十一）时间序列及预测&非参数方法](https://woaielf.github.io/2017/02/20/none-para/)
 
 ### Python
-* [【笔记】Python基础篇（一）基础&数据类型&控制流](https://woaielf.github.io/2016/12/03/python-basic-1/)
-* [【笔记】Python基础篇（二）函数&函数式编程](https://woaielf.github.io/2016/12/05/python-basic-2/)
-* [【笔记】Python基础篇（三）模块&面向对象编程](https://woaielf.github.io/2016/12/07/python-basic-3/)
-* [【笔记】Python基础篇（四）文件对象&错误处理](https://woaielf.github.io/2016/12/08/python-basic-4/)
-* [【笔记】Python 常用扩展库](https://woaielf.github.io/2017/05/28/lib-1/)
-* [【笔记】数值计算库之「NumPy」](https://woaielf.github.io/2017/04/15/numpy/)
-* [【笔记】数值计算库之「Pandas」](https://woaielf.github.io/2017/04/22/Pandas/)
-* [【笔记】数据可视化之「Matplotlib」](https://woaielf.github.io/2017/04/27/matplotlib/)
+* [【笔记】Python（一）基础篇之「基础&数据类型&控制流」](https://woaielf.github.io/2016/12/03/python-basic-1/)
+* [【笔记】Python（二）基础篇之「函数&函数式编程」](https://woaielf.github.io/2016/12/05/python-basic-2/)
+* [【笔记】Python（三）基础篇之「模块&面向对象编程」](https://woaielf.github.io/2016/12/07/python-basic-3/)
+* [【笔记】Python（四）基础篇之「文件对象&错误处理」](https://woaielf.github.io/2016/12/08/python-basic-4/)
+* [【笔记】Python（五）数值计算库之「NumPy」](https://woaielf.github.io/2017/04/15/numpy/)
+* [【笔记】Python（六）数值计算库之「Pandas」](https://woaielf.github.io/2017/04/22/Pandas/)
+* [【笔记】Python（七）数据可视化之「Matplotlib」](https://woaielf.github.io/2017/04/27/matplotlib/)
+* [【笔记】Python（八）常用扩展库](https://woaielf.github.io/2017/05/28/lib-1/)
 
 
 ### 机器学习

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【笔记】Python基础篇（四）文件对象&错误处理"
+title: "【笔记】Python（四）基础篇之「文件对象&错误处理」"
 categories: 编程之魅
 tags: Python
 author: ZY
