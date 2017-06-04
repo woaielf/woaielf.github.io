@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【笔记】数据可视化之「Matplotlib」"
+title: "【笔记】Python（七）数据可视化之「Matplotlib」"
 categories: 编程之魅
 tags: Python Matplotlib
 author: ZY
