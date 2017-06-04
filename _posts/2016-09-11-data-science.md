@@ -48,7 +48,7 @@ author: ZY
 * [【笔记】Python基础篇（二）函数&函数式编程](https://woaielf.github.io/2016/12/05/python-basic-2/)
 * [【笔记】Python基础篇（三）模块&面向对象编程](https://woaielf.github.io/2016/12/07/python-basic-3/)
 * [【笔记】Python基础篇（四）文件对象&错误处理](https://woaielf.github.io/2016/12/08/python-basic-4/)
-* [【笔记】Python 常用扩展库](https://woaielf.github.io/2017/05/12/lib-1/)
+* [【笔记】Python 常用扩展库](https://woaielf.github.io/2017/05/28/lib-1/)
 * [【笔记】数值计算库之「NumPy」](https://woaielf.github.io/2017/04/15/numpy/)
 * [【笔记】数值计算库之「Pandas」](https://woaielf.github.io/2017/04/22/Pandas/)
 * [【笔记】数据可视化之「Matplotlib」](https://woaielf.github.io/2017/04/27/matplotlib/)
