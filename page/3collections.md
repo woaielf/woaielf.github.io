@@ -13,7 +13,8 @@ icon: bookmark
 
 ## Data Science
 
-### Python
+### Coding
+「[gashero的Geek前哨](http://gashero.iteye.com/category/54346)」
 「[Pythoner：你像从前一样的Python学习笔记](http://www.pythoner.com/)」
 
 ### R
