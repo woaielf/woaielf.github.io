@@ -44,6 +44,7 @@ author: ZY
 * [【笔记】统计（十一）时间序列及预测&非参数方法](https://woaielf.github.io/2017/02/20/none-para/)
 
 ### Python
+* [【汇总】Python 编程核心知识体系](https://woaielf.github.io/2017/06/13/python3-all/)
 * [【笔记】Python（一）基础篇之「基础&数据类型&控制流」](https://woaielf.github.io/2016/12/03/python-basic-1/)
 * [【笔记】Python（二）基础篇之「函数&函数式编程」](https://woaielf.github.io/2016/12/05/python-basic-2/)
 * [【笔记】Python（三）基础篇之「模块&面向对象编程」](https://woaielf.github.io/2016/12/07/python-basic-3/)
