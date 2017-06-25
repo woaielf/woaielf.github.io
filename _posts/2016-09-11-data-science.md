@@ -53,6 +53,7 @@ author: ZY
 * [【笔记】Python（六）数值计算库之「Pandas」](https://woaielf.github.io/2017/04/22/Pandas/)
 * [【笔记】Python（七）数据可视化之「Matplotlib」](https://woaielf.github.io/2017/04/27/matplotlib/)
 * [【笔记】Python（八）常用扩展库](https://woaielf.github.io/2017/05/28/lib-1/)
+* [【笔记】Python（九）爬虫常用库](https://woaielf.github.io/2017/06/21/spider/)
 
 
 ### 机器学习
@@ -83,9 +84,3 @@ author: ZY
 
 ## Update Log
 - 2017/06/05
-
-
-
-
-
-
