@@ -22,7 +22,7 @@ icon: bookmark
 
 ### Others
 「[数据科学沉思录](http://yphuang.github.io/)」
-「[运营大湿兄](https://ask.hellobi.com/blog/qinlu)」
+
 
 ### Machine Learning
 「[刘建平Pinard](http://www.cnblogs.com/pinard/)」
@@ -49,6 +49,9 @@ icon: bookmark
 
 ### MindMap
 「[Xmind官网](http://www.xmind.net/share/)」「[Mind Map Library](http://www.biggerplate.com/mindmap-library)」
+
+### 互联网
+「[运营大湿兄](https://ask.hellobi.com/blog/qinlu)」
 
 
 
