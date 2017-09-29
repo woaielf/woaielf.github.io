@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【索引】数据科学技能树"
+title: "【索引】数据科学「知识图谱」"
 categories: 博文索引
 tags: 博文索引
 author: ZY
