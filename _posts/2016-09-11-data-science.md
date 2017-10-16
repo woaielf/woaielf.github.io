@@ -76,11 +76,14 @@ author: ZY
 
 ### 辅助技能
 
+#### Linux & Shell
+* [【笔记】Linux 基础知识](https://woaielf.github.io/2017/09/15/linux-core/)
+* [【笔记】Shell 基础知识](https://woaielf.github.io/2017/09/20/shell/)
+
 #### Excel
 * [【笔记】Excel学习笔记](https://woaielf.github.io/2016/11/08/excel/)
 
-#### Linux & Shell
-* [【笔记】简易Shell编程](https://woaielf.github.io/2016/12/15/shell/)
+
 
 ## Update Log
-- 2017/06/25
+- 2017/10/16
