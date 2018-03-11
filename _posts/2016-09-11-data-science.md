@@ -69,9 +69,7 @@ author: ZY
 * [【实战】电商数据篇（二）MySQL 实战指南](https://woaielf.github.io/2017/05/25/jdata-mysql/)
 
 ### R
-* [【笔记】R基础篇（一）基础概要](https://woaielf.github.io/2016/09/15/R-basic-1/)
-* [【笔记】R基础篇（二）数据结构](https://woaielf.github.io/2016/12/10/R-basic-2/)
-* [【笔记】R基础篇（三）数据管理](https://woaielf.github.io/2016/12/11/R-basic-3/)
+
 
 
 ### 辅助技能
@@ -81,7 +79,6 @@ author: ZY
 * [【笔记】Shell 基础知识](https://woaielf.github.io/2017/09/20/shell/)
 
 #### Excel
-* [【笔记】Excel学习笔记](https://woaielf.github.io/2016/11/08/excel/)
 
 
 
