@@ -3,7 +3,7 @@ layout: post
 title: "【笔记】Linux 基础知识"
 categories: 编程之魅
 tags: Linux
-author: ZY
+author: ZOE
 ---
 
 * content

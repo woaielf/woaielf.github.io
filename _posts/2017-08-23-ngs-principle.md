@@ -3,7 +3,7 @@ layout: post
 title: "【笔记】测序原理"
 categories: 生物信息
 tags: NGS
-author: ZY
+author: ZOE
 ---
 
 * content

@@ -3,7 +3,7 @@ layout: post
 title: "【总结】Trim Galore用法及参数考量"
 categories: 生物信息
 tags: 生信软件 NGS
-author: ZY
+author: ZOE
 ---
 
 * content

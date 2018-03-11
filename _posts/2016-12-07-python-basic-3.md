@@ -3,7 +3,7 @@ layout: post
 title: "【笔记】Python（三）基础篇之「模块&面向对象编程」"
 categories: 编程之魅
 tags: Python
-author: ZY
+author: ZOE
 ---
 
 * content

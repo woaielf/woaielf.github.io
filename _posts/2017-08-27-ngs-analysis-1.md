@@ -3,7 +3,7 @@ layout: post
 title: "【笔记】全基因组测序分析之概述篇"
 categories: 生物信息
 tags: NGS
-author: ZY
+author: ZOE
 ---
 
 * content

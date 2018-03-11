@@ -3,7 +3,7 @@ layout: post
 title: "【实战】电商数据篇（二）MySQL 实战指南"
 categories: 数据科学
 tags: 实例分析 
-author: ZY
+author: ZOE
 ---
 
 * content

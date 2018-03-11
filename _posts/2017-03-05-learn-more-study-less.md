@@ -3,7 +3,7 @@ layout: post
 title: "【读书】《如何高效学习》"
 categories: 读书笔记
 tags: 学习方法
-author: ZY
+author: ZOE
 ---
 
 * content

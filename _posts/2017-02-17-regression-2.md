@@ -3,7 +3,7 @@ layout: post
 title: "【笔记】统计（十）多元回归&回归分析"
 categories: 数据科学
 tags: 统计
-author: ZY
+author: ZOE
 ---
 
 * content

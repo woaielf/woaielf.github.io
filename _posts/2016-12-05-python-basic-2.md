@@ -3,7 +3,7 @@ layout: post
 title: "【笔记】Python（二）基础篇之「函数&函数式编程」"
 categories: 编程之魅
 tags: Python
-author: ZY
+author: ZOE
 ---
 
 * content
