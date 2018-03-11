@@ -3,7 +3,7 @@ layout: post
 title: "【索引】如何高效浏览本博客？"
 categories: 博文索引
 tags: 博文索引
-author: ZY
+author: ZOE
 ---
 
 * content
