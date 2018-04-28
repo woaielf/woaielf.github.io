@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【笔记】17 幅思维导图：Python 核心知识体系-第三版更新"
+title: "【笔记】17 幅思维导图：Python 核心知识体系-20180410第三次更新"
 categories: 编程之魅
 tags: python
 author: ZOE
