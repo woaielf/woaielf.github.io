@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【笔记】四幅思维导图学会 Python 爬虫：Requests，BeautifulSoup & Scrapy
+title: "【笔记】四幅思维导图学会 Python 爬虫：Requests，BeautifulSoup & Scrapy"
 categories: 编程之魅
 tags: python python爬虫
 author: ZOE
