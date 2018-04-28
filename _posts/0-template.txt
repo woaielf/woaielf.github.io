@@ -1,43 +1,10 @@
 ---
 layout: post
-title: "【】"
-categories: 
+title: "【笔记】
+categories: 编程之魅
 tags: 
-author: ZY
+author: ZOE
 ---
 
 * content
 {:toc}
-
-
-
-
-
-
-## Update Log
-- 2016/12/15
-
-## 思维导图
-默认阅读顺序：**从右→左，顺时针方向**。
-![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161215-1.png)
-![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161215-2.png)
-![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/1612/161215-3.png)
-
-
-
-
-
-
------------------------
-
-「」
-* []()
-<font color="red"></font>
-
-![](https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Pic/?.png)
-
-<video width="800" height="450" controls="controls">
-    <source src="https://raw.githubusercontent.com/woaielf/woaielf.github.io/master/_posts/Video/?.mp4" type="video/mp4" />
-</video>
-
---------------------
